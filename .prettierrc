@@ -1,0 +1,5 @@
+{
+  "semi": false, //格式化后不给加分号
+  "singleQuote": true, //启用单引号
+  "printWidth":200 //默认为80  超过80会自动换行
+}
